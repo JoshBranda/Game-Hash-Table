@@ -1,0 +1,55 @@
+﻿GAME : GENRE : GAME-TYPE : PLATFORM : RATING : COMMENT
+Civilization II:Strategy:Turn-based:PC:5:Classic version of the Civilization series takes 48 hours straight to play complete game:
+Civilization IV Warlords:Strategy:Turn-based:PC:5:Apex of the Civilization series:
+Civilization V:Strategy:Turn-based:PC:2:When Civilization got too fancy and they ruined it:
+Pokemon Go:Gotta catch them all!:Fantasy:IOS, Android:3:Popular in the Summer 2016:
+Doom:Sci-fi horror:First person shooter:PC:4:Fast paced with non-stop action in single player mode:
+Star Wars Battlefront:Sci-fi war game:First person shooter:Xbox One:5:Great job with intense battles and full multi-player support:
+Birth of the Federation:Defeat the Klingons!:Turn-Based Strategy:PC:5:Great for LAN parties:
+Lester the Unlikely:Save the girl:Side-scrolling Adventure:SNES: 4: Very clever for its time:
+Pac-Man: Eat stuff: Action:Arcade: 3: The best arcades could offer at the time:
+Resident Evil: Kill zombies: Shooter:Playstation: 4: Revolutionary for the Playstation:
+Resident Evil 2: Kill more zombies: Shooter:Playstation: 5: Revolutionary for all game storytelling!:
+Resident Evil 3: Kill the genre: Shooter:Playstation 2: 2: Let's just pretend this one didn't happen:
+Resident Evil 4: Kill Spanish zombies: Shooter:Gamecube: 5: The height of Resident Evil awesomeness:
+Mario Kart: Destroy your friendships: Racing:NES: 5: The start of the racing genre, kind of:
+Grim Fandango: Help Mani succeed!: Adventure:PC: 5: An underrated cult classic:
+Toe Jam and Earl: Find your spaceship!: Side-scrolling adventure:Sega: 5: The best sega game ever:
+F-Zero: Race to the end!: Racing:SNES: 3: A popular racing game in the 90's:
+Mario 64: Save the princess, naturally:Adventure:Nintendo 64: 5: 3D graphics were amazing:
+Angry Birds: Destroy stuff: Action:IOS, Android: 4: Kills time on the bus:
+Super Smash Bros Melee: Destroy your friendships: Fighting:Gamecube: 5: Loved it until I destroyed my friendships:
+Rock Band: Play music: Music-based:Xbox 360: 5: Escape from the realization that you are, and never will be, a rockstar:
+Half-Life: Defend Germany from the Americans: First person shooter:PC: 5: Play until you literally have half a life:
+Fallout: Run from zombies and crazed killers: RPG:PC: 5: Preview of Trump's America:
+The Sims: Live life...?: Simulation:PC: 3: Ideal if you don't have a Y chromosome:
+Mortal Kombat: Defeat your enemy: Fighting:Sega: 4: Come for the fighting, stay for the fatality:
+Final Fantasy IV: Restore peace to the kingom: RPG:SNES: 5: One of the best RPG's ever:
+Chrono Trigger: Travel through time and change history:RPG: SNES: 5: One of the best games ever!:
+Final Fantasy VII: Don't ask me to explain the plot: RPG:Playstation: 5: Brought RPGs to the mainstream:
+Goldeneye:Shoot bad guys: FPS:Nintendo 64: 5: If you played this a lot, you are probably one of the older people in your CS class:
+World of Warcraft: Gain XP: MOMG:PC: 2: PLay if you'd rather not have a social life:
+Pong: Move a dot across the screen: Unknown:Atari: 1: Shows you how how much games have developed:
+Rags to riches: You're a homless man trying to go to college: Side-scrolling Adventure:PC: 5: Very creative:
+Tetris: Fill in blocks: Puzzle:PC: 4: Made by a Russian Communist who never got a dime for it (because he was a Russian Communist):
+Paperboy: Deliver the daily paper: Side-scrolling Adventure:NES: 3: Why?:
+Prince of Persia: Rewind time and defeat bad guys!: Adventure:Playstation: 5: Pretty friggin cool:
+Mega Man 2:Shoot things: Side-Scrolling Adventure:SNES: 4: There was a character called "wood-man"... nuff said:
+Starcraft: Defeat the zerg!: Real-time Strategy:PC: 5: Great if you have South Korean friends:
+NBA Jam: Play basketball: Sports:SNES: 5: As close as many video game nerds get to playing sports:
+Zombies Ate my Neighbors: Kill zombies: Adventure:SNES: 5: Pretty cool:
+Earthworm Jim: Defeat odd characters: Side-scrolling Adventure:SNES: 5: You're an earth worm...:
+Twisted Metal 2: Win the competition: Racing/Adventure:Playstation: 5: Amazing cooperative game:
+Sam and Max Hit the Road: Solve puzzles: Adventure:PC:4: Interesting concept:
+Maniac Mansion: Get out of the mansion: Adventure:PC:5: Great homage to horror movies:
+NFL Blitz: Play football: Sports:Nintendo 64: 4: Pretty fun, I guess:
+Rick and Morty: Solve paradoxes: Adventure:Gamecube:5: Ok, this game doesn't actually exist, but it should:
+E.T. the Extra-Terrestrial: Avoid falling in holes: Side-Scrolling Adventure:Atari:1:Destroyed the Atari system:
+Super Smash Bros 64: Destroy your friendships: Fighting:Nintendo 64: 5: Destroy your friendships, in glorious 64 bits:
+The Legend of Zelda: Be heroic: Adventure:NES: 3: I never actually played this one, but I heard it is good:
+Beyond Good and Evil: Be heroic and take pictures: Adventure:Gamecube:5: Dystopic fun!:
+Final Fantasy VI: It's complicated: RPG:SNES:5: Very complicated but great story:
+Soul Caliber: Fight to the death: Fighting:Dreamcast:5: Violent but fun:
+Die Hard Trilogy: Make witty statements while fighting terrorists: Action:Playstation:5: Yippykayey!:
+Mario Bros: Clean pipes and take names: Side-scrolling:NES:4: It's pretty trippy now that you think about it:
+Grand Theft Auto: Ride around and commit crimes: Action:Playstation:3: The original:
